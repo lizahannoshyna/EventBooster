@@ -1,0 +1,14 @@
+@use "./sections/header.scss" as *;
+@use "./sections/posters.scss" as *;
+@use "./sections/footer.scss" as *;
+@use "./sections/modal.scss" as *;
+
+body{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+.container {
+  max-width: 1090px;
+  padding: 0 16px;
+}
+
