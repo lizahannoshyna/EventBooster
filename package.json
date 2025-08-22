@@ -4,15 +4,25 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /eventbooster/",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizahannoshyna/eventbooster.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizahannoshyna/eventbooster/issues"
+  },
   "description": "",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "posthtml-include": "^2.0.1",
     "sass": "^1.90.0"
-  }
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+
