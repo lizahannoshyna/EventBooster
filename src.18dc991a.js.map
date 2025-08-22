@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/header.js","index.js"],"names":["alert","require"],"mappings":";AAAAA,MAAM;;;;ACGN,aAHAC,QAAA,kBACAA,QAAA,mBACAA,QAAA,iBACAA,QAAA","file":"src.18dc991a.js","sourceRoot":"../src","sourcesContent":["alert(\"Hello, Parcel!\");","import './js/header.js';\nimport './js/posters.js';\nimport './js/modal.js';\nimport './js/pagination.js';"]}
