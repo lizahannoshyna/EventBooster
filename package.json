@@ -22,5 +22,8 @@
     "parcel-bundler": "^1.12.5",
     "posthtml-include": "^2.0.1",
     "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "modern-normalize": "^3.0.1"
   }
 }
